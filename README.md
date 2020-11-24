@@ -1,4 +1,4 @@
-# Vue 3 Google Maps API
+# Google Maps API
 
 Provides a convenient wrapper for the Google Maps API, allowing it to be called in the promise syntax.
 
